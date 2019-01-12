@@ -10,7 +10,21 @@ The objective of this project is to develop a MapReduce job and get details of e
   - JDK
   
   
-### Getting Started:
-The idea here to use is the partitioner class to partition the data based on gender before sending it to the reducer.
+### Idea:
+The idea here to write **custom partitioner class** to partition the data based on gender before sending it to the reducer.
+
+
+
+
+### Output:
+- We can see the partitioned records here 
+
+
+
+- For male
+
+
+- For Female 
+
 
 
